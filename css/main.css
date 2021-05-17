@@ -1,0 +1,39 @@
+/*****************
+GENERAL
+*****************/
+h1 {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+
+table {
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.generic-square {
+    background: orange;
+    padding: 0;
+    margin: 0;
+    width: 100px;
+    height: 100px;
+}
+
+.center-thing {
+    margin: 0 auto;
+}
+
+.img-fluid-custom {
+    max-width: 100%;
+}
+
+/*****************
+RGB GAME
+*****************/
+
+
+
